@@ -103,8 +103,5 @@ Raw Data → Data Cleaning (Python) → Database Storage (SQL) → Business Anal
 
 
 
-* 🔥 A short recruiter-focused README
-* 🧠 A more technical GitHub version
-* 📈 A version with measurable impact metrics (for stronger profile)
 
 
